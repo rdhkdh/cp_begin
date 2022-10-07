@@ -1,0 +1,1 @@
+{"name":"Local: r135edu_q1","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/r135edu_q1.cpp","tests":[{"id":1662649644784,"input":"3\n3\n1 1 1\n1\n9\n2\n4 7","output":"3\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/r135edu_q1.cpp","group":"local","local":true}
