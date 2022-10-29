@@ -5,27 +5,31 @@ int main()
 {
     int n;
     cin>>n;
-    vector<int> v1;
-    int x;
-    for(int i=1;i<=n;i++)
+
+    int arr[n];
+    for(int i=0;i<n;i++)
     {
-        cin>>x;
-        v1.push_back(x);
+        cin>>arr[i];
     }
 
-    set<int> s1;
-    vector<int> v2;
+    set<int> s;
+    vector<int> v;
 
-    for(auto it1= v1.rbegin(); it1 !=v1.rend(); it1--)
+    for(int i=n-1;i>=0;i--)
     {
-        if( s1.find(*it1) ==s1.end()) { s1.insert(*it1); }
-        v2.push_back(*it1);
+        if( binary_search(s.begin(),s.end(),arr[i]) ) {}
+        else
+        {
+            s.insert(arr[i]);
+            v.push_back(arr[i]);
+        }
     }
 
-    for(auto it2=v2.rbegin(); it2 !=v2.rend(); it2--)
+    cout<<v.size()<<endl;
+    for(int i=v.size()-1; i>=0; i--)
     {
-        cout<<*it2<<" ";
+        cout<<v[i]<<" ";
     }
     cout<<endl;
-
+    
 }
