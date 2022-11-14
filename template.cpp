@@ -32,3 +32,5 @@ for(int i=0;i<n;i++)
 
     }
 }
+
+# define int long long
