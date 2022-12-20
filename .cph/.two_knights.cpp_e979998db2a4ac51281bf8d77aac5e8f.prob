@@ -1,0 +1,1 @@
+{"name":"Local: two_knights","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/two_knights.cpp","tests":[{"id":1671509644538,"input":"8","output":"0\n6\n28\n96\n252\n550\n1056\n1848"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/two_knights.cpp","group":"local","local":true}
