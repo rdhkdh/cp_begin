@@ -1,0 +1,1 @@
+{"name":"Local: subordinates","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/subordinates.cpp","tests":[{"id":1671598248282,"input":"5\n1 1 2 3","output":"4 1 1 0 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/subordinates.cpp","group":"local","local":true}
