@@ -1,0 +1,1 @@
+{"name":"Local: counting_rooms","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/counting_rooms.cpp","tests":[{"id":1673069457030,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/counting_rooms.cpp","group":"local","local":true}
