@@ -1,0 +1,1 @@
+{"name":"Local: coin_piles","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/coin_piles.cpp","tests":[{"id":1672816961803,"input":"3\n2 1\n2 2\n3 3","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/coin_piles.cpp","group":"local","local":true}

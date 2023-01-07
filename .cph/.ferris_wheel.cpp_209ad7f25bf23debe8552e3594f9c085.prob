@@ -1,0 +1,1 @@
+{"name":"Local: ferris_wheel","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/ferris_wheel.cpp","tests":[{"id":1673063619072,"input":"4 10\n7 2 3 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/ferris_wheel.cpp","group":"local","local":true}
