@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_two_values","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/sum_of_two_values.cpp","tests":[{"id":1673533523276,"input":"4 8\n2 7 5 1","output":"2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/sum_of_two_values.cpp","group":"local","local":true}

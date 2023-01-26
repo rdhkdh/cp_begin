@@ -1,0 +1,1 @@
+{"name":"Local: grid_paths","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/grid_paths.cpp","tests":[{"id":1673398533712,"input":"4\n....\n.*..\n...*\n*...","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/grid_paths.cpp","group":"local","local":true}
