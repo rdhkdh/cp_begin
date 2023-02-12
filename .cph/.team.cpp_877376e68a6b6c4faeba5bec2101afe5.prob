@@ -1,0 +1,1 @@
+{"name":"Local: team","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/team.cpp","tests":[{"id":1676193366069,"input":"3\n1 1 0\n1 1 1\n1 0 0\n","output":"2\n"},{"id":1676193376006,"input":"2\n1 0 0\n0 1 1\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/team.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: flip_flop_sum","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/flip_flop_sum.cpp","tests":[{"id":1675262480307,"input":"4\n5\n-1 1 1 -1 -1\n5\n1 1 -1 -1 -1\n2\n1 1\n4\n1 -1 -1 1","output":"3\n3\n-2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/flip_flop_sum.cpp","group":"local","local":true}

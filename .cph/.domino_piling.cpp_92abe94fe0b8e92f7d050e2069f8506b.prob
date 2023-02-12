@@ -1,0 +1,1 @@
+{"name":"Local: domino_piling","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/domino_piling.cpp","tests":[{"id":1676194001059,"input":"2 4","output":"4"},{"id":1676194012219,"input":"3 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/domino_piling.cpp","group":"local","local":true}
