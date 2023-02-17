@@ -1,0 +1,1 @@
+{"name":"Local: sale","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/sale.cpp","tests":[{"id":1676312499143,"input":"5 3\n-6 0 35 -2 4\n","output":"8\n"},{"id":1676312513200,"input":"6 2\n7 0 0 -7 -15 -100\n","output":"115\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/sale.cpp","group":"local","local":true}
