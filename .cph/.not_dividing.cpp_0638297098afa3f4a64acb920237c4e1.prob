@@ -1,0 +1,1 @@
+{"name":"Local: not_dividing","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/not_dividing.cpp","tests":[{"id":1678167437180,"input":"3\n4\n2 4 3 6\n3\n1 2 3\n2\n4 2","output":"4 5 6 7\n3 2 3\n4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/not_dividing.cpp","group":"local","local":true}
