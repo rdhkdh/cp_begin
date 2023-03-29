@@ -1,0 +1,1 @@
+{"name":"Local: bank","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/bank.cpp","tests":[{"id":1679230660423,"input":"4 10\n1\n1\n3\n2 1\n1\n2 3\n3\n1\n2 2\n3\n","output":"1\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/bank.cpp","group":"local","local":true}

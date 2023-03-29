@@ -1,0 +1,1 @@
+{"name":"Local: 2n_grid","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/2n_grid.cpp","tests":[{"id":1679231261104,"input":"8 4 3\n1 2\n3 2\n2 3\n3 1\n1 4\n2 1\n3 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/2n_grid.cpp","group":"local","local":true}
