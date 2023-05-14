@@ -8,16 +8,17 @@ int main()
     {
         int n;
         cin>>n;
-        int b[n+1];
-        int count=0;
-        for(int i=1;i<=n;i++) {cin>>b[i]; if(b[i]==1) {count++;}}
 
-        for(int i=2;i<=n;i++)
+        int known=0,unknown=0,aviaries_needed=0;
+        for(int i=1;i<=n;i++) 
         {
-            if(b[i]==2 && b[i]-1)
+            int x;
+            cin>>x; 
+            if(x==1) { unknown++; }
+            else{ known+=unknown; unknown=0;} //x=2
+            aviaries_needed=max( aviaries_needed, unknown+( known ? known/2+1 : 0) );
         }
-
-
+        cout<<aviaries_needed<<endl;
 
     }
 }
