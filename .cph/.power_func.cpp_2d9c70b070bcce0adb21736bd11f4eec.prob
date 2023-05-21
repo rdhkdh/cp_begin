@@ -1,0 +1,1 @@
+{"name":"Local: power_func","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/power_func.cpp","tests":[{"id":1684310420694,"input":"71045970\n41535484\n64735492","output":"20805472"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/power_func.cpp","group":"local","local":true}
