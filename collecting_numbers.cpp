@@ -6,7 +6,7 @@ int main()
     int n;
     cin>>n;
     int a[n];
-    int c[n+1];
+    int c[n+1]; // checking uptill that element
     c[n]=0;
 
     for(int i=0;i<n;i++) 
