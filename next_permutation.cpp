@@ -30,24 +30,25 @@ int main()
     cin>>s;
     int n=s.length();
     sort(s.begin(),s.end());
-
     cout<<s<<endl;
 
-    vector<int> v;
-    v.clear();
-    for(int i=0;i<n;i++) 
-    { 
-        v.push_back( int(s[i]) ); //ascii value 
-    }
-    vector<int> v_rev;
-    v_rev=v;
-    reverse(v_rev.begin(),v_rev.end()); // v in reverse
-
-    int flag=0;
-    while(flag==0)
+    if(n!=1) 
     {
-        next_perm(v);
-        if(v==v_rev) {flag=1;}
+        vector<int> v;
+        v.clear();
+        for(int i=0;i<n;i++) 
+        { 
+            v.push_back( int(s[i]) ); //ascii value 
+        }
+        vector<int> v_rev;
+        v_rev=v;
+        reverse(v_rev.begin(),v_rev.end()); // v in reverse
+
+        int flag=0;
+        while(flag==0)
+        {
+            next_perm(v);
+            if(v==v_rev) {flag=1;}
+        }
     }
-    
 }

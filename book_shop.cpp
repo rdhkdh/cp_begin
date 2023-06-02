@@ -5,7 +5,7 @@ int main()
 {
     int n,x;
     cin>>n>>x;
-    pair<int,int> book[n+1]; //price,pages
+    pair<int,int> book[n+1]; //prices, pages
     int h[n+1],s[n+1];
     for(int i=1;i<=n;i++) {cin>>h[i];}
     for(int i=1;i<=n;i++) {cin>>s[i];}
