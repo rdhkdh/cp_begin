@@ -1,0 +1,1 @@
+{"name":"Local: josephus_problem_I","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/josephus_problem_I.cpp","tests":[{"id":1686036811709,"input":"7","output":"2 4 6 1 5 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/josephus_problem_I.cpp","group":"local","local":true}

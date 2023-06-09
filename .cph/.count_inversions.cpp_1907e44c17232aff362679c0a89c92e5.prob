@@ -1,0 +1,1 @@
+{"name":"Local: count_inversions","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/count_inversions.cpp","tests":[{"id":1685717704627,"input":"5\n2 4 1 3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/count_inversions.cpp","group":"local","local":true}

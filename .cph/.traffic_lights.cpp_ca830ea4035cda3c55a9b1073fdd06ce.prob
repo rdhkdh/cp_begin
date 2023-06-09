@@ -1,0 +1,1 @@
+{"name":"Local: traffic_lights","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/traffic_lights.cpp","tests":[{"id":1686031874711,"input":"8 3\n3 6 2","output":"5 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/traffic_lights.cpp","group":"local","local":true}
