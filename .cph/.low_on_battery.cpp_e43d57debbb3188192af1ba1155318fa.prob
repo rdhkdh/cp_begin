@@ -1,0 +1,1 @@
+{"name":"Local: low_on_battery","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/low_on_battery.cpp","tests":[{"id":1686395596998,"input":"3\n3 3 5\nRRR\nDDD\nUUU\n1 4 2\nLLLL\n1 4 3\nLLLL","output":"Yes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/low_on_battery.cpp","group":"local","local":true}

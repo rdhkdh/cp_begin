@@ -1,3 +1,11 @@
+// Initializing object of a struct in C++
+// Automatic Storage Duration/ Static initialization 
+// classname objectname; 
+// Dynamic Storage Duration/ Dynamic Initialization 
+// classname *objectname = new classname(); 
+// Delete Dynamic Object 
+// delete objectname;
+
 #include<bits/stdc++.h>
 using namespace std;
 
