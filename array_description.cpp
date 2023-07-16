@@ -2,31 +2,41 @@
 using namespace std;
 int main()
 {
+    int mod = 1e9+7;
     int n,m;
     cin>>n>>m;
     int x[n];
-    int count=1;
+    for(int i=0;i<n;i++) {cin>>x[i];}
 
-    
-    for(int i=0;i<n;i++)
+    vector<vector<int>> dp(n,vector<int>(m+1,0));
+    if(x[0]==0)
+    {
+        fill(dp[0].begin(),dp[0].end(),1);
+    }
+    else{ dp[0][x[0]]=1; }
+
+    for(int i=1; i<n; i++)
     {
         if(x[i]==0)
         {
-            int temp=0;
-            map<int,int> mp; //freq of elements
-            int l=x[i-1], r=x[i+1];
-            if(l!=0 && r!=0)
+            for(int j=1;j<=m;j++)
             {
-                mp[l-1]++; mp[l]++; mp[l+1]++;
-                mp[r-1]++; mp[r]++; mp[r+1]++;
-                for(auto it=mp.begin(); it!=mp.end();it++)
+                for(int k: {j-1,j,j+1})
                 {
-                    if(it->second==2) {temp++;}
+                    if(k>=1 && k<=m) { (dp[i][j] += dp[i-1][k])%= mod; }
                 }
             }
-            if(l!=0 &&  )
-            
+        }
+        else
+        {   
+            for( int k: {x[i]-1,x[i],x[i]+1} )
+            {
+                if(k>=1 && k<=m) { (dp[i][x[i]] += dp[i-1][k]) %= mod; }
+            }
         }
     }
 
+    int ans=0;
+    for(int j=1;j<=m;j++) { (ans+= dp[n-1][j]) %= mod; }
+    cout<<ans<<endl;
 }

@@ -5,24 +5,26 @@ int main()
 {
     int n,x;
     cin>>n>>x;
-    pair<int,int> book[n+1]; //prices, pages
+    
     int h[n+1],s[n+1];
     for(int i=1;i<=n;i++) {cin>>h[i];}
     for(int i=1;i<=n;i++) {cin>>s[i];}
-    for(int i=1;i<=n;i++) {book[i]=make_pair(h[i],s[i]);}
-    sort(book+1,book+n+1);
+    
+    int dp[n+1][x+1]; //max no of pages by selecting from 1,2...ith books, using j money
+    for(int i=0;i<=x;i++) { dp[0][i]= 0; }
+    for(int i=1;i<=n;i++) { dp[i][0]= 0; }
 
-    int dp[n+1]; //max no of pages by selecting from 1,2...ith books
-    dp[0]=0;
-    int price=0; //current money used up
     for(int i=1;i<=n;i++)
     {
-        if(price+book[i].first>x) {dp[i]=dp[i-1];}
-        else{
-            dp[i]= max( dp[i-1], dp[i-1]+book[i].second );
-            if(dp[i]!=dp[i-1]) { price+=book[i].first; }
+        for(int j=1;j<=x;j++)
+        {
+            if(j-h[i]>=0)
+            {
+                dp[i][j]= max( dp[i-1][j], dp[i-1][j-h[i]]+s[i] );
+            }
+            else{ dp[i][j]= dp[i-1][j]; }
         }
     }
 
-    cout<<dp[n]<<endl;
+    cout<<dp[n][x]<<endl;
 }
