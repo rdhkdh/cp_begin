@@ -1,44 +1,52 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define int long long
+//#define int long long
 
-pair<int,int> check(int a[],int start, int n, int target)
+pair<int,int> check(vector<pair<int,int>> v, int start, int end, int x)
 {
-    int flag=0;
-    int j,k;
-    for(j=start;j<n;j++)
+    int i=start,j=end;
+    while(i<j)
     {
-        for(k=j+1;k<n;k++)
-        {
-            if(a[k]==target-a[j]) { flag=1; break; }
-        }
-        if(flag==1) break;
+        if(v[i].first+v[j].first>x) { j--; }
+        else if(v[i].first+v[j].first<x) { i++; }
+        else { break; }
     }
-    if(flag==0) {j=-1; k=-1;}
-    pair<int,int> p = make_pair(j,k);
-    return p;
+
+    if(i<j) { return make_pair(v[i].second,v[j].second); } //returning positions
+    return make_pair(-1,-1); //not found
 }
 
 int32_t main()
 {
     int n,x;
     cin>>n>>x;
-    int a[n];
-    for(int i=0;i<n;i++) {cin>>a[i];}
 
-    int first_posn;
-    int flag=0;
-    pair<int,int> posn;
+    vector<pair<int,int>> v;
+    for(int i=0;i<n;i++) 
+    {
+        int temp;
+        cin>>temp;
+        v.push_back(make_pair(temp,i));
+    }
+    sort(v.begin(),v.end());
+
+    int flag=0,posn;
+    pair<int,int> p;
     for(int i=0;i<n;i++)
     {
-        if(x>a[i])
-        {
-            posn = check(a,i+1,n,x-a[i]);
-            if(posn.first!=-1) {first_posn=i; flag=1; break; }
-        }
+        p= check( v, i+1, n-1, x-v[i].first );
+        if(p.first==-1 && p.second==-1) {continue;}
+        else{posn=v[i].second; flag=1; break;}
     }
-    if(flag==0) {cout<<"IMPOSSIBLE\n";}
-    if(flag==1) {cout<<first_posn+1<<" "<<posn.first+1<<" "<<posn.second+1<<endl;}
+
+    if(flag==1)
+    { 
+        int arr[3]; 
+        arr[0]=posn; arr[1]=p.first; arr[2]=p.second;
+        sort(arr,arr+3);
+        cout<<arr[0]+1<<" "<<arr[1]+1<<" "<<arr[2]+1<<endl;
+    }
+    else{ cout<<"IMPOSSIBLE\n"; }
 
     return 0;
 }

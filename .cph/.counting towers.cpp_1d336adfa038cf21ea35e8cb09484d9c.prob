@@ -1,0 +1,1 @@
+{"name":"Local: counting towers","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/counting towers.cpp","tests":[{"id":1689488753238,"input":"3\n2\n6\n1337","output":"8\n2864\n640403945"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/counting towers.cpp","group":"local","local":true}

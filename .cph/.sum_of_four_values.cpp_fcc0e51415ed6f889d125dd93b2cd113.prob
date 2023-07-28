@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_four_values","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/sum_of_four_values.cpp","tests":[{"id":1690563412006,"input":"8 15\n3 2 5 8 1 3 2 3","output":"2 4 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/sum_of_four_values.cpp","group":"local","local":true}
