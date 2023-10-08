@@ -1,0 +1,1 @@
+{"name":"Local: restaurant_customers","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/restaurant_customers.cpp","tests":[{"id":1690621599770,"input":"3\n5 8\n2 4\n3 9","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/restaurant_customers.cpp","group":"local","local":true}
