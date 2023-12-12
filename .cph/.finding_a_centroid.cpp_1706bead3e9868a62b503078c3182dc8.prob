@@ -1,0 +1,1 @@
+{"name":"Local: finding_a_centroid","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/finding_a_centroid.cpp","tests":[{"id":1702390006869,"input":"5\n1 2\n2 3\n3 4\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/finding_a_centroid.cpp","group":"local","local":true}

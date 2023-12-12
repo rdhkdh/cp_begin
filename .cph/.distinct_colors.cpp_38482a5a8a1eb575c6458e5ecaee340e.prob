@@ -1,0 +1,1 @@
+{"name":"Local: distinct_colors","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/distinct_colors.cpp","tests":[{"id":1702389563754,"input":"5\n2 3 2 2 1\n1 2\n1 3\n3 4\n3 5","output":"3 1 2 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/distinct_colors.cpp","group":"local","local":true}
