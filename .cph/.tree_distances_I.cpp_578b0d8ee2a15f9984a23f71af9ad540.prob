@@ -1,0 +1,1 @@
+{"name":"Local: tree_distances_I","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/tree_distances_I.cpp","tests":[{"id":1702291955939,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"2 3 2 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/tree_distances_I.cpp","group":"local","local":true}
