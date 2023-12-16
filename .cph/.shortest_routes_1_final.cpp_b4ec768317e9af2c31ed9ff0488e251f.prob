@@ -1,0 +1,1 @@
+{"name":"Local: shortest_routes_1_final","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/shortest_routes_1_final.cpp","tests":[{"id":1702565739051,"input":"3 4\n1 2 6\n1 3 2\n3 2 3\n1 3 4","output":"0 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/shortest_routes_1_final.cpp","group":"local","local":true}
