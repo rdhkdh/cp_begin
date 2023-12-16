@@ -1,0 +1,1 @@
+{"name":"Local: flight_discount","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/flight_discount.cpp","tests":[{"id":1702731908186,"input":"3 4\n1 2 3\n2 3 1\n1 3 7\n2 1 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/flight_discount.cpp","group":"local","local":true}

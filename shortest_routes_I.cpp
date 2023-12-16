@@ -1,4 +1,5 @@
-// SSSP: DJikstra's is faster than Bellman Ford
+// SSSP: Bellman Ford
+//note: djikstra's is faster
 
 #include<bits/stdc++.h>
 using namespace std;

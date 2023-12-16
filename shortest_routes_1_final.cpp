@@ -1,4 +1,4 @@
-// djikstra's algo
+// SSSP: djikstra's algo
 
 #include <bits/stdc++.h>
 using namespace std;
