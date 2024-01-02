@@ -1,0 +1,1 @@
+{"name":"Local: cycle_finding","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/cycle_finding.cpp","tests":[{"id":1702970365101,"input":"4 5\n1 2 1\n2 4 1\n3 1 1\n4 1 -3\n4 3 -2","output":"YES\n1 2 4 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/cycle_finding.cpp","group":"local","local":true}
