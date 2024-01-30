@@ -1,0 +1,1 @@
+{"name":"Local: increasing_subsequence","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/increasing_subsequence.cpp","tests":[{"id":1704192387909,"input":"8\n7 3 5 3 6 2 9 8","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/increasing_subsequence.cpp","group":"local","local":true}
