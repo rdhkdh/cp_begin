@@ -1,0 +1,1 @@
+{"name":"Local: TLD","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/TLD.cpp","tests":[{"id":1706961884824,"input":"atcoder.jp\n","output":"jp\n"},{"id":1706961901579,"input":"translate.google.com\n","output":"com\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/TLD.cpp","group":"local","local":true}

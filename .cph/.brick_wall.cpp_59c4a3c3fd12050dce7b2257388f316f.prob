@@ -1,0 +1,1 @@
+{"name":"Local: brick_wall","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/brick_wall.cpp","tests":[{"id":1706625755048,"input":"5\n2 2\n7 8\n16 9\n3 5\n10000 10000\n","output":"2\n28\n64\n6\n50000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/brick_wall.cpp","group":"local","local":true}
