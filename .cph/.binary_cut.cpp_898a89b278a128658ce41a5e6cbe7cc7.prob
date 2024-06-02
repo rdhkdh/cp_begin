@@ -1,0 +1,1 @@
+{"name":"Local: binary_cut","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/binary_cut.cpp","tests":[{"id":1715355242430,"input":"6\n11010\n00000000\n1\n10\n0001111\n0110","output":"3\n1\n1\n2\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/binary_cut.cpp","group":"local","local":true}
