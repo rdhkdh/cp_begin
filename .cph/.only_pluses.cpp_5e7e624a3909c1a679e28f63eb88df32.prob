@@ -1,0 +1,1 @@
+{"name":"Local: only_pluses","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/only_pluses.cpp","tests":[{"id":1720709074056,"input":"2\n2 3 4\n10 1 10\n","output":"100\n600\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/only_pluses.cpp","group":"local","local":true}
