@@ -1,0 +1,1 @@
+{"name":"Local: shortest_path3","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/shortest_path3.cpp","tests":[{"id":1720876006440,"input":"3 3\n1 2 3\n1 2 1\n1 3 6\n2 3 2\n","output":"4 9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/shortest_path3.cpp","group":"local","local":true}
