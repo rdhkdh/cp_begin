@@ -1,0 +1,1 @@
+{"name":"Local: split_multiset2","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/split_multiset2.cpp","tests":[{"id":1721055723185,"input":"4\n1 5\n5 2\n6 3\n16 4\n","output":"0\n4\n3\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/split_multiset2.cpp","group":"local","local":true}
