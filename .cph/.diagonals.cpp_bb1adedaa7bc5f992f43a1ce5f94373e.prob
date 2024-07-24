@@ -1,0 +1,1 @@
+{"name":"Local: diagonals","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/diagonals.cpp","tests":[{"id":1721745793836,"input":"7\n1 0\n2 2\n2 3\n2 4\n10 50\n100 239\n3 9\n","output":"0\n1\n2\n3\n6\n3\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/diagonals.cpp","group":"local","local":true}
