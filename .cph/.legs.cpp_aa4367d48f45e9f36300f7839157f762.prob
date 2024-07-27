@@ -1,0 +1,1 @@
+{"name":"Local: legs","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/legs.cpp","tests":[{"id":1722004780768,"input":"3\n2\n6\n8\n","output":"1\n2\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/legs.cpp","group":"local","local":true}
