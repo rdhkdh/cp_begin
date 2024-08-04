@@ -1,0 +1,1 @@
+{"name":"Local: xor_sigma","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/xor_sigma.cpp","tests":[{"id":1722691390993,"input":"3\n1 3 2\n","output":"3\n"},{"id":1722691677283,"input":"7\n2 5 6 5 2 1 7\n","output":"83\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/xor_sigma.cpp","group":"local","local":true}
