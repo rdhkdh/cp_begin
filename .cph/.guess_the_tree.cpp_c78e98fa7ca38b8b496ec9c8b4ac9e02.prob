@@ -1,0 +1,1 @@
+{"name":"Local: guess_the_tree","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/guess_the_tree.cpp","tests":[{"id":1724168773152,"input":"1\n4\n1\n1\n3","output":"? 1 2\n\n? 1 3\n\n? 1 4\n\n! 1 2 1 3 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/guess_the_tree.cpp","group":"local","local":true}

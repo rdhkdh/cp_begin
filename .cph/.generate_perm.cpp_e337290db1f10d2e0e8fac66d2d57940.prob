@@ -1,0 +1,1 @@
+{"name":"Local: generate_perm","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/generate_perm.cpp","tests":[{"id":1724165825052,"input":"2\n1\n2\n","output":"1\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/generate_perm.cpp","group":"local","local":true}
