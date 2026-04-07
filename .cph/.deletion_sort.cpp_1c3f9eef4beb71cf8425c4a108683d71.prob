@@ -1,0 +1,1 @@
+{"name":"Local: deletion_sort","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/deletion_sort.cpp","tests":[{"id":1772203629331,"input":"3\n4\n1 4 2 3\n1\n100\n2\n6 7\n","output":"1\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/deletion_sort.cpp","group":"local","local":true}

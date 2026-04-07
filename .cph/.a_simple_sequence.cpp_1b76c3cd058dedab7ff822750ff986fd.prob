@@ -1,0 +1,1 @@
+{"name":"Local: a_simple_sequence","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/a_simple_sequence.cpp","tests":[{"id":1774795480506,"input":"4\n2\n3\n4\n5\n","output":"2 1\n2 3 1\n2 4 3 1\n3 5 4 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/a_simple_sequence.cpp","group":"local","local":true}
