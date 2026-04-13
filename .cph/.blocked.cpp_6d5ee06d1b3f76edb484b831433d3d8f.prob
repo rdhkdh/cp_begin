@@ -1,0 +1,1 @@
+{"name":"Local: blocked","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/blocked.cpp","tests":[{"id":1776092374497,"input":"4\n3\n1 5 9\n4\n1 3 3 2\n3\n1 2 3\n1\n1\n","output":"5 9 1\n-1\n3 1 2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/blocked.cpp","group":"local","local":true}

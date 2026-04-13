@@ -1,0 +1,1 @@
+{"name":"Local: grid_l","url":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/grid_l.cpp","tests":[{"id":1776093910233,"input":"7\n1 2\n1 3\n5 1\n2 5\n2 10\n100000000 100000000\n1 1\n","output":"-1\n1 2\n1 2\n2 2\n2 4\n-1\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rdhkdh/Desktop/ridhiman_iitg/cp_begin/grid_l.cpp","group":"local","local":true}
