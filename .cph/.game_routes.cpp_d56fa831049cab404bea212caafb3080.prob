@@ -1,0 +1,1 @@
+{"name":"Local: game_routes","url":"d:\\Ridhiman\\dev\\cp_begin\\game_routes.cpp","tests":[{"id":1786704815931,"input":"4 5\n1 2\n2 4\n1 3\n3 4\n1 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Ridhiman\\dev\\cp_begin\\game_routes.cpp","group":"local","local":true}
